@@ -1,0 +1,1 @@
+This repository practices including branches feature develop,pull request, conflict resolution.
